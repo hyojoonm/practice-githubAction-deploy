@@ -54,4 +54,3 @@ jobs:
         --deployment-config-name CodeDeployDefault.AllAtOnce
         --deployment-group-name be-38-hyojoonm-group
         --s3-location bucket=be-38-hyojoonm,bundleType=zip,key=practice-deploy.zip
-
